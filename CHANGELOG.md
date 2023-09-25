@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/allen62/devops/compare/v1.0.0...v1.1.0) (2023-09-25)
+
+
+### Features
+
+* git token ([6427b2a](https://github.com/allen62/devops/commit/6427b2af8bdb84fdb96b45c4d6e3a53a6297ed05))
+* git token ([bc65c7b](https://github.com/allen62/devops/commit/bc65c7bccb926b856ff4460d69f77f9a2e507cf5))
+
 # 1.0.0 (2023-09-25)
 
 
