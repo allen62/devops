@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test1": "jest",
     "prepare": "husky install"
   },
   "repository": {
