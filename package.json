@@ -1,0 +1,25 @@
+{
+  "name": "devopsday-automation-release",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allen62/devops.git"
+  },
+  "author": "Allen.chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allen62/devops/issues"
+  },
+  "homepage": "https://github.com/allen62/devops#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "husky": "^8.0.3"
+  }
+}
